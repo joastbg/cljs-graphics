@@ -1,0 +1,16 @@
+*~
+.idea
+.lein*
+/.DS_Store
+/classes
+/lib
+closure
+/core.js
+/coreadvanced.js
+/coresimple.js
+/out
+.repl
+*.swp
+*.zip
+clojurescript_release_*
+closure-release-*
